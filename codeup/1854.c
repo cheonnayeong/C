@@ -1,4 +1,4 @@
-//재귀로 각 자리 수의 랍 리턴하기
+//재귀로 각 자리 수의 합 리턴하기
 #include <stdio.h>
 #include <string.h>
 
